@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="org.openntf.xsp.bootstrap.feature"
-      label="OpenNTF Bootstrap Library for XPages Feature"
+      label="OpenNTF Bootstrap Library for XPages"
       version="1.0.0.qualifier"
       provider-name="OpenNTF">
 
@@ -34,9 +34,6 @@ code.
 
    <plugin
          id="org.openntf.xsp.bootstrap"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
+         version="0.0.0"/>
 
 </feature>
